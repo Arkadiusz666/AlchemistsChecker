@@ -6,9 +6,9 @@ import java.security.Signature;
  */
 public class Potion {
     private AlchemonColor color;
-    private Sign sign;
+    private AlchemonSymbol sign;
 
-    public Potion(AlchemonColor color, Sign sign) {
+    public Potion(AlchemonColor color, AlchemonSymbol sign) {
         this.color = color;
         this.sign = sign;
     }

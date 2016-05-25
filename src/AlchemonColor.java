@@ -4,6 +4,6 @@
 public enum AlchemonColor {
     GREEN,
     RED,
-    BRUE,
-    NONE;
+    BRUE;
+
 }
